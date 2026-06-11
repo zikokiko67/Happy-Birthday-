@@ -87,7 +87,7 @@ const CONFIG = {
     {
       type: "quote",
       text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      author: "Ziko",
     },
     {
       type: "stars",
